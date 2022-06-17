@@ -1,0 +1,24 @@
+{
+  "version": "3.49.24347.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6iIefanIzLM",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 698
+  },
+  "stage": {
+    "width": 720,
+    "height": 580
+  }
+}

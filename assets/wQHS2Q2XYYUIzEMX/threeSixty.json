@@ -1,0 +1,29 @@
+{
+  "version": "3.49.24347.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6cQHZcdXOnG",
+      "title": "Text Entry",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6LsaTzj8xDB",
+      "title": "Text Entry",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1151
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
